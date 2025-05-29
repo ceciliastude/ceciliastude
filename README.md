@@ -1,6 +1,7 @@
-# Hi, I'm Cecilia! ☀️
-
-  I'm a Finnish IT student currently taking my bachelor's degree in Software Development. 
+<h1 align='center'> ☀️ Hi, I'm Cecilia! ☀️ </h1>
+<p align='center'>
+  I'm a Finnish IT student currently taking my bachelor's degree in Software Development.
+</p>
 
   ---
   ## 💬 Ongoing Projects:
