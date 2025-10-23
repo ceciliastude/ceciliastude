@@ -1,4 +1,4 @@
-<h1 align='center'> ☀️ Hi, I'm Cecilia! ☀️ </h1>
+<h1 align='center'>  Hi, I'm Cecilia!  </h1>
 <p align='center'>
   I'm a Finnish IT student currently taking my bachelor's degree in Software Development.
 </p>
