@@ -4,7 +4,7 @@
 </p>
 
   ---
-  ## 💬 Ongoing Projects:
+  ## Ongoing Projects:
   
   ### 🎈 Artes All-Star Party 🎈
 
