@@ -10,7 +10,7 @@
 
   - Artes All-Star Party is my examination project; a 3D party game developed in Unity with C# inspired by the ***Mario & Sonic at the Olympic Games*** franchise.
   - The game will feature 3 minigames, based on racing, fighting and rhytm games. It will also feature 8 characters, with their own unique skillsets and will be aligned based on ***Power, Speed, Skill and All-Around*** types.
-  - The game is currently still in it's early stages but an open beta will launch during autumn 2025.
+  - The game is currently still in it's early stages but an early access will be available in 2026-2027.
 
 ### 🦊 Project Yokai (Placeholder name) 🦊
   - Project Yokai is a 2D RPG game developed as part of the ***Object-Oriented Programming 2*** course, where we were tasked to create a software application in applications like IntelliJIDEA, Visual Studio, etc.
