@@ -1,19 +1,6 @@
-<h1 align='center'>  Hi, I'm Cecilia!  </h1>
+<h1 align='center'>  Hi, I'm Cecilia, aka Mars!  </h1>
 <p align='center'>
   I'm a Finnish Software Developer with a Bachelor's degree in IT-Software Engineering. My speciality and main interest is in game development! 
-
-Languages I use: 
-  - C#
-  - C++
-  - C
-  - Java
-  - Python
-  - HTML/CSS/Javascript
-
-My Skills:
-- Unity (1 year)
-
-
 
 </p>
 
@@ -32,3 +19,14 @@ My Skills:
   - The game is currently on hiatus, as I am currently developing my examination project. The hiatus will end after I am finished with my studies. 
 
   ---
+Languages I use: 
+  - C#
+  - C++
+  - C
+  - Java
+  - Python
+  - HTML/CSS/Javascript
+
+My Skills:
+- Unity (1 year)
+
