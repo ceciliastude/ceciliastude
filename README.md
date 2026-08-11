@@ -1,6 +1,20 @@
 <h1 align='center'>  Hi, I'm Cecilia!  </h1>
 <p align='center'>
-  I'm a Finnish IT student currently taking my bachelor's degree in Software Development.
+  I'm a Finnish Software Developer with a Bachelor's degree in IT-Software Engineering. My speciality and main interest is in game development! 
+
+Languages I use: 
+  - C#
+  - C++
+  - C
+  - Java
+  - Python
+  - HTML/CSS/Javascript
+
+My Skills:
+- Unity (1 year)
+
+
+
 </p>
 
   ---
@@ -10,7 +24,7 @@
 
   - Artes All-Star Party is my examination project; a 3D party game developed in Unity with C# inspired by the ***Mario & Sonic at the Olympic Games*** franchise.
   - The game will feature 3 minigames, based on racing, fighting and rhytm games. It will also feature 8 characters, with their own unique skillsets and will be aligned based on ***Power, Speed, Skill and All-Around*** types.
-  - Wishlists and a demo for the minigame Rhythmic Artes will be available on Steam 01.06.2026!
+  - Wishlists and a demo for the minigame Rhythmic Artes will be available on Steam 01.09.2026!
 
 ### 🦊 Project Yokai (Placeholder name) 🦊
   - Project Yokai is a 2D RPG game developed as part of the ***Object-Oriented Programming 2*** course, where we were tasked to create a software application in applications like IntelliJIDEA, Visual Studio, etc.
